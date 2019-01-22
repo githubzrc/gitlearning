@@ -2,3 +2,4 @@ file to test merge conflict;
 edit in native;
 edit in github;
 edit the same line add in github;
+appmend in native
